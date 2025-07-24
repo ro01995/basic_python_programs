@@ -1,4 +1,4 @@
-Python Preparation
+﻿Python Preparation
  Interpreter in Python
 Python is primarily an interpreted language, which means:
 •	The Python interpreter reads your code line by line, translates it into machine code, and executes it immediately.
@@ -196,9 +196,7 @@ You can check this with:
 4. Interning (for Some Objects)
 Python reuses memory for certain immutable objects like small integers and short strings to save space.
 5. Garbage Collection
-When no variable references the object anymore, Python's garbage collector will eventually
- reclaim the memory.
- 
+When no variable references the object anymore, Python's garbage collector will eventually reclaim the memory.
 Visual Summary
 Component	Description
 Heap	Where objects live
